@@ -7,7 +7,9 @@ authors = [
     { name = "Matthew Noates", email = "113374899+realnoates@users.noreply.github.com" }
 ]
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "bcrypt>=5.0.0",
+]
 
 [build-system]
 requires = ["uv_build>=0.9.11,<0.10.0"]

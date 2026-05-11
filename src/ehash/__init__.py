@@ -1,2 +1,3 @@
-def hello() -> str:
-    return "Hello from ehash!"
+from .core import hashify, verify
+
+__all__ = ["hashify", "verify"]
