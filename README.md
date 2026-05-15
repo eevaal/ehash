@@ -12,4 +12,5 @@
   
   ![Python](https://img.shields.io/badge/python-3.13-blue?style=for-the-badge&logo=python&logoColor=white)
   ![Bcrypt](https://img.shields.io/badge/bcrypt-5.0.0-red?style=for-the-badge)
+  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20218154.svg)](https://doi.org/10.5281/zenodo.20218154)
 </div>
