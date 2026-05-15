@@ -6,6 +6,6 @@ authors:
     orcid: "https://orcid.org/0009-0000-4664-3851"
 title: "ehash"
 version: "0.1.0"
-doi: "https://doi.org/10.5281/zenodo.20218154"
+doi: "10.5281/zenodo.20218154"
 date-released: "2026-01-16"
 url: "https://github.com/eevaal/ehash"
